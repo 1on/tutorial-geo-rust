@@ -1,0 +1,13 @@
+[package]
+name = "geohelper"
+version = "0.1.0"
+authors = ["ion"]
+
+[dependencies]
+
+postgres = "0.11"
+rust-ini = "*"
+iron = "*"
+router = "*"
+mount = "*"
+rustc-serialize = "0.3"
